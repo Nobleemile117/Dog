@@ -18,7 +18,7 @@ string nombre =params[0];
 int age = Integer.parseint(params[1]);
 Dog Dog =new Dog(age, name);
 
-System.out.println(DOg.getname());
+System.out.println(Dog.getname()+"otra cosa");
 System.out.println(Dog.getname());
 }
 
